@@ -4,9 +4,11 @@
 
 <p align="center">
   <a href="https://github.com/MarceAquino">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2000&pause=800&color=00FF00&center=true&vCenter=true&width=600&lines=%3C%2F%3E+Código.+Café.+Repeat.;System.out.println(%22Hello+World%22);console.log(%22Bienvenidos+a+mi+perfil%22);print(%22Desarrollador+Full-Stack%22)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2000&pause=800&color=00FF00&center=true&vCenter=true&width=600&lines=%3C%2F%3E+Código.+Café.+Repeat.;System.out.println(%22Hello+World%22);console.log(%22Bienvenidos+a+mi+perfil%22);print(%22Desarrollador+Full-Stack%22)" 
+    alt="Typing SVG" />
   </a>
 </p>
+
 
 <div align="center">
   <img src="https://i.imgur.com/ir8T8s8.gif" width="600px">
