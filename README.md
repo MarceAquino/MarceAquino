@@ -263,29 +263,6 @@ MarceAquino:~$ █
   <img src="https://i.imgur.com/7uizqPH.gif" width="100%">
 </div>
 
-<!-- Configuración de snake animation (matriz verde):
-name: Generate Matrix Snake
+https://<tu_usuario_de_github>.github.io/<nombre_del_repositorio>/github-contribution-grid-snake-dark.svg
 
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: MarceAquino
-          svg_out_path: dist/github-contribution-grid-snake-dark.svg
-          snake_color: '00FF00'
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
