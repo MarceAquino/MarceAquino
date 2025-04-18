@@ -4,9 +4,10 @@
 
 <p align="center">
   <a href="https://github.com/MarceAquino">
-    <img src="https://media.giphy.com/media/3o6Zt3t7xsD8FqDME8/giphy.gif" alt="Texto Animado" />
+    <img src="https://i.imgur.com/XXXXX.gif" alt="Texto Animado" />
   </a>
 </p>
+
 
 
 
