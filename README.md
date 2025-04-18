@@ -8,9 +8,6 @@
   </a>
 </p>
 
-
-
-
 <div align="center">
   <img src="https://i.imgur.com/ir8T8s8.gif" width="600px">
 </div>
